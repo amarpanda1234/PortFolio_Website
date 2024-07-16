@@ -1,1 +1,3 @@
 # PortFolio_Website
+
+My portfolio website, built with HTML5, CSS, and JavaScript, features a modern, responsive design. It includes a header with a logo and navigation menu, an introductory hero section, an about section with a bio and profile picture, and a skills section highlighting my abilities. The projects section showcases my work in a grid layout with a lightbox gallery for detailed views. A contact form allows visitors to reach out, and the footer contains social media links and copyright info. CSS ensures a consistent color scheme and responsive design, while JavaScript adds interactivity through form validation, smooth scrolling, dynamic content loading, and scroll-triggered animations.
